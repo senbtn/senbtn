@@ -12,6 +12,8 @@ My background spans **technology distribution, cybersecurity business developmen
 
 A deployed sales operations platform for opportunity management, pipeline visibility, meeting preparation, competitive context, and follow-up prioritization.
 
+**[Open the live interactive demo →](https://sales-operations-tracker.vercel.app/)**
+
 **Highlights:**
 
 - Interactive pipeline dashboard and quarter summaries
