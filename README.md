@@ -37,7 +37,7 @@ A request-operations workspace for partner workbook intake, request ownership, t
 - Excel BoM intake for partner requests
 - Status-based workflow actions
 - Vendor account-manager workload view
-- Search, filtering, project timeline, and quick updates
+- Search, filtering, project timeline, and quick updates\n- Synthetic payment-terms and product-tax reference workspace
 - Browser-session demo built exclusively with synthetic data
 
 `Next.js` `React` `JavaScript` `Supabase` `Vercel` `Sales Operations`
