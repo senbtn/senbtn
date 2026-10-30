@@ -27,7 +27,7 @@ An interactive opportunity-management platform for pipeline visibility, meeting 
 
 ### Channel DealFlow
 
-A request-operations workspace for partner workbook intake, request ownership, technical and commercial handoffs, status progression, and activity timelines.
+A request-operations workspace for partner workbook intake, request ownership, technical and commercial handoffs, status progression, finance references, and activity timelines.
 
 **[Open the Channel DealFlow demo →](https://sales-operations-tracker.vercel.app/dealflow)**  
 [View the DealFlow source code on GitHub](https://github.com/senbtn/sales-operations-tracker/tree/main/app/dealflow)
@@ -37,7 +37,10 @@ A request-operations workspace for partner workbook intake, request ownership, t
 - Excel BoM intake for partner requests
 - Status-based workflow actions
 - Vendor account-manager workload view
-- Search, filtering, project timeline, and quick updates\n- Synthetic payment-terms and product-tax reference workspace
+- Search, filtering, project timeline, and quick updates
+- Synthetic payment terms, credit limits, and finance notes
+- Product-tax reference with calculated tax amounts
+- Bundled versus standalone power-supply rule example
 - Browser-session demo built exclusively with synthetic data
 
 `Next.js` `React` `JavaScript` `Supabase` `Vercel` `Sales Operations`
