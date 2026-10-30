@@ -8,11 +8,12 @@ My background spans **technology distribution, cybersecurity business developmen
 
 ## Featured projects
 
-### [Sales Operations Tracker](https://github.com/senbtn/sales-operations-tracker)
+### Sales Operations Tracker
 
-A deployed sales operations platform for opportunity management, pipeline visibility, meeting preparation, competitive context, follow-up prioritization, and Won/Lost performance analysis.
+An interactive opportunity-management platform for pipeline visibility, meeting preparation, competitive context, follow-up prioritization, and Won/Lost performance analysis.
 
-**[Open the live interactive demo →](https://sales-operations-tracker.vercel.app/)**
+**[Open the Sales Operations Tracker demo →](https://sales-operations-tracker.vercel.app/)**  
+[View the source code on GitHub](https://github.com/senbtn/sales-operations-tracker)
 
 **Highlights:**
 
@@ -21,8 +22,23 @@ A deployed sales operations platform for opportunity management, pipeline visibi
 - Table and meeting-focused workflows
 - Competition and follow-up visibility
 - Won/Lost analytics with win rate, commercial impact, partner performance, and structured loss reasons
-- Production architecture with authentication and role-based access
-- Public portfolio demo built exclusively with synthetic data\n\n### [Channel DealFlow](https://sales-operations-tracker.vercel.app/dealflow)\n\nA public workflow demo for partner workbook intake, request ownership, technical and commercial handoffs, status progression, and activity timelines. It runs entirely on synthetic browser-session data and is isolated from the production system.\n\n**[Open the live DealFlow demo →](https://sales-operations-tracker.vercel.app/dealflow)**
+
+---
+
+### Channel DealFlow
+
+A request-operations workspace for partner workbook intake, request ownership, technical and commercial handoffs, status progression, and activity timelines.
+
+**[Open the Channel DealFlow demo →](https://sales-operations-tracker.vercel.app/dealflow)**  
+[View the DealFlow source code on GitHub](https://github.com/senbtn/sales-operations-tracker/tree/main/app/dealflow)
+
+**Highlights:**
+
+- Excel BoM intake for partner requests
+- Status-based workflow actions
+- Vendor account-manager workload view
+- Search, filtering, project timeline, and quick updates
+- Browser-session demo built exclusively with synthetic data
 
 `Next.js` `React` `JavaScript` `Supabase` `Vercel` `Sales Operations`
 
@@ -41,6 +57,8 @@ Building lightweight tools that help technology sales teams reduce manual work, 
 
 ## Explore my work
 
-- [Sales Operations Tracker repository](https://github.com/senbtn/sales-operations-tracker)\n- [Channel DealFlow live demo](https://sales-operations-tracker.vercel.app/dealflow)
+- [Sales Operations Tracker — Live demo](https://sales-operations-tracker.vercel.app/)
+- [Channel DealFlow — Live demo](https://sales-operations-tracker.vercel.app/dealflow)
+- [Project repository](https://github.com/senbtn/sales-operations-tracker)
 
-> The public projects on this profile use fictional data and are separated from internal production systems.
+> All public portfolio demos use fictional data and are isolated from internal production systems.
