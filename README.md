@@ -10,7 +10,7 @@ My background spans **technology distribution, cybersecurity business developmen
 
 ### [Sales Operations Tracker](https://github.com/senbtn/sales-operations-tracker)
 
-A deployed sales operations platform for opportunity management, pipeline visibility, meeting preparation, competitive context, and follow-up prioritization.
+A deployed sales operations platform for opportunity management, pipeline visibility, meeting preparation, competitive context, follow-up prioritization, and Won/Lost performance analysis.
 
 **[Open the live interactive demo →](https://sales-operations-tracker.vercel.app/)**
 
@@ -20,6 +20,7 @@ A deployed sales operations platform for opportunity management, pipeline visibi
 - Ownership, segment, status, and value filtering
 - Table and meeting-focused workflows
 - Competition and follow-up visibility
+- Won/Lost analytics with win rate, commercial impact, partner performance, and structured loss reasons
 - Production architecture with authentication and role-based access
 - Public portfolio demo built exclusively with synthetic data
 
